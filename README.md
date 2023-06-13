@@ -13,8 +13,8 @@ Status em que ponto estou no momento Não iniciado ❌ / Em Andamento ⏳ / Conc
 `"Nesta primeira parte, você irá carregar um conjunto de dados do mundo real e realizar uma análise de dados de maneira exploratória, utilizando várias bibliotecas do Python, como a Seaborn, Matplotlib, SciPy e Pandas."`
 
 * Data Science: analise e visualização de dados. ✅
-* Python Pandas: tratando e analisando dados. ⏳
-* Estatística com Python: frequências e medidas. ❌
+* Python Pandas: tratando e analisando dados. ✅
+* Estatística com Python: frequências e medidas. ⏳
 * Estatística com Python: probabilidade e amostragem ❌
 
 
